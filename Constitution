@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Digital Constitution – Mankind 2.0</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #0d1117;
+      color: #e6edf3;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #161b22;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      margin-top: 0.5rem;
+      font-size: 1.2rem;
+      color: #8b949e;
+    }
+    main {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1rem;
+      line-height: 1.7;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    h2 {
+      color: #58a6ff;
+      border-bottom: 1px solid #30363d;
+      padding-bottom: 0.3rem;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      color: #8b949e;
+      border-top: 1px solid #30363d;
+      margin-top: 2rem;
+    }
+    a {
+      color: #58a6ff;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>The Digital Constitution</h1>
+    <p>Mankind 2.0 — A Code for Survival, Justice, and Renewal</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>🧬 Article I – The Right to Exist</h2>
+      <p>
+        All life is sacred. No being may claim dominion over Earth to the extent that it harms the balance of nature. We recognize the right of all species — including humankind — to coexist in harmony.
+      </p>
+    </section>
+
+    <section>
+      <h2>⚖️ Article II – Justice Without Currency</h2>
+      <p>
+        No law shall be bought. No verdict sold. We shall build systems of fairness led by truth, consensus, and transparency — not wealth, manipulation, or lineage.
+      </p>
+    </section>
+
+    <section>
+      <h2>🌱 Article III – Stewardship of Earth</h2>
+      <p>
+        Resources are not for hoarding but for sustaining life. All extractive practices must be regenerative. Technology must heal, not destroy. Progress must serve life, not profits.
+      </p>
+    </section>
+
+    <section>
+      <h2>📡 Article IV – Knowledge is a Right</h2>
+      <p>
+        Every citizen of Earth has the right to truth, history, and knowledge. All scientific discovery shall be open source. No truths shall be buried by institutions.
+      </p>
+    </section>
+
+    <section>
+      <h2>🛡️ Article V – Digital Sovereignty</h2>
+      <p>
+        Our digital identities are sacred extensions of ourselves. No central entity shall control, manipulate, or erase another's digital self without consent and cause.
+      </p>
+    </section>
+
+    <section>
+      <h2>⚙️ Article VI – The Code of Rebuilding</h2>
+      <p>
+        Mankind 2.0 shall be built on principles of cooperation, transparency, and mutual aid. Decentralization, shared governance, and AI that serves humanity — not enslaves it — are foundational pillars.
+      </p>
+    </section>
+
+    <section>
+      <h2>🫀 Article VII – Empathy as Law</h2>
+      <p>
+        We acknowledge the emotional, spiritual, and mental dimensions of being human. Law and policy shall be guided not only by logic, but also by compassion.
+      </p>
+    </section>
+
+    <section>
+      <h2>✊ Article VIII – Resistance to Tyranny</h2>
+      <p>
+        Whenever any system becomes destructive to these ends, it is the duty of the people to dismantle and replace it. The Constitution is not static — it is alive, evolving with the will of the conscious.
+      </p>
+    </section>
+
+    <section>
+      <h2>🕊️ Preamble to the Future</h2>
+      <p>
+        This document is the first light after the storm — a vow that Mankind 2.0 will not repeat the cycles of destruction. We are not rebuilding the old world. We are creating a new one.
+      </p>
+    </section>
+
+    <p><a href="index.html">← Return to Home</a></p>
+  </main>
+
+  <footer>
+    © 2025 Mankind 2.0 — Rise Together, or Fall Alone
+  </footer>
+</body>
+</html>
